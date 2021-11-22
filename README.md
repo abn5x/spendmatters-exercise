@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# INFO
 
 This is a exercise for SpendMatters Interview.
 
